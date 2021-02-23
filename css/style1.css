@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align:center;
+    color: #474747;
+}
+nav li{
+    display:inline-block;
+    font-family: 'Roboto Mono',monospace;
+    font-size: 20px;
+    padding: 5px;
+    color:#fff;
+}
+header{
+    text-align: center;
+    background: url(../lappy.jpg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height:500px;
+}
+.logo
+{
+    padding-top: 200px;
+    font-family: 'Monoton',cursive;
+    font-size: 50px;
+    color:rgb(121, 19, 112)
+}
+.blurb
+{
+    background-color: rgb(73, 80, 80);
+    padding-top:50px;
+    height:75px;
+    font-family: 'Roboto Mono',monospace;
+    letter-spacing: 5px;
+}
+.about-me
+{
+    margin-left: 70px;
+    margin-top: 80px;
+    padding:50px;
+    color:black;
+    height:450px;
+    font-family:'Roboto Mono',monospace; ;
+}
+#about-header
+{
+    margin-top: 90px;
+    padding-top:50px;
+    color:black;
+    font-family:'Roboto Mono',monospace; 
+    }
+    #profileimg
+    {
+        float: left;
+        padding-left: 240px;
+    }
+    #profile-blurb
+    {
+        float:right;
+        padding-right:350px;
+        width: 500px;
+    }
+    .portfoliosection{
+        font-family:'Roboto Mono',monospace; 
+        padding-bottom:50px ;
+        margin-top:40px ;
+        margin-bottom:130;
+        color: #474747;
+    }
+    .contact-section
+    {
+        font-family:'Roboto Mono',monospace;
+        height:500px;
+        padding-bottom: 50px;
+        margin-bottom: 50px;
+            }
+    .column
+    {
+        float:left;
+        width:400px;
+        text-align: left;
+        padding:5px;
+    }
+    #portfolio
+    {
+        margin-top: auto;
+        padding-bottom:50px ;
+        color: rgb(99, 13, 80);
+    }
+    .gallery
+    {
+        margin-top: 150px;
+        padding: 150px;
+            }
+    form{
+        margin:auto;
+        padding: 20px;
+        width: 500px;
+        height:200px;
+            }
+     .form-row
+        {
+           margin: 10px;
+         }
+#pf
+{
+    margin-bottom: 100px;
+    padding-bottom: 80px;
+}
+#submitt_button
+{
+    background-color: cyan;
+}
+footer p{
+    background-color: darkorchid;
+    color:white;
+}
